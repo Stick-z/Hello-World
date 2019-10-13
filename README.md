@@ -1,2 +1,3 @@
 # Hello-World
-Hi
+
+Hello, I am Jayden Spurgiasz, this is my first GitHub thingy.
